@@ -6,4 +6,4 @@ Google Inbox OR Gmail Inbox OR Inbox by Gmail ( https://inbox.google.com ) is a 
 
 This extension will only show the number of unread emails, including those in bundles, but reminders would not be counted.
 
-If you have any problem, please contact me on Twitter: @jason5ng32 .
+Check it in Chrome app store: https://chrome.google.com/webstore/detail/google-inbox-checker-inbo/llldafpkkdiljghncbdnkgfinfiifnig
