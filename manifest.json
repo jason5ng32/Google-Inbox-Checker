@@ -1,0 +1,21 @@
+{
+   "author": "Jason Ng",
+   "background": {
+      "page": "background.html",
+      "persistent": false
+   },
+   "browser_action": {
+      "default_icon": {
+      "19": "gmail_not_logged_in.png",         
+      "38": "gmail_not_logged_in_retina.png"  }   
+   },
+   "default_locale": "en",
+   "description": "__MSG_gmailcheck_description__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "manifest_version": 2,
+   "name": "Google Inbox Checker (Inbox by Gmail)",
+   "permissions": [ "alarms", "tabs", "webNavigation", "*://*.google.com/" ],
+   "version": "1.0.1"
+}

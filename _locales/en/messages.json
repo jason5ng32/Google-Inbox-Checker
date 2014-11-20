@@ -1,0 +1,19 @@
+{
+   "gmailcheck_description": {
+      "message": "Displays the number of unread messages in your Google inbox (Inbox by Gmail)."
+   },
+   "gmailcheck_exception": {
+      "message": "exception: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "gmailcheck_name": {
+      "message": "Google Inbox Checker (Inbox by Gmail)"
+   },
+   "gmailcheck_node_error": {
+      "message": "Error: feed retrieved, but no &lt;fullcount&gt; node found"
+   }
+}
